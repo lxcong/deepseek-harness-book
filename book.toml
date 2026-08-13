@@ -5,7 +5,11 @@ authors = ["lxcong"]
 language = "zh-CN"
 src = "src"
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [output.html]
 git-repository-url = "https://github.com/deepseek-ai/deepseek-harness"
 default-theme = "rust"
 preferred-dark-theme = "navy"
+additional-js = ["mermaid.min.js", "mermaid-init.js"]

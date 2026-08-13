@@ -1,6 +1,7 @@
 # Summary
 
 [前言：为什么读 DeepSeek Harness](preface.md)
+[导读地图：从全局到局部](reading-map.md)
 
 # 第一部分 全景
 

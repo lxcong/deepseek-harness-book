@@ -1,2 +1,4 @@
 book/
 .DS_Store
+mermaid.min.js
+mermaid-init.js
