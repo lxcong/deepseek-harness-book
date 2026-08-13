@@ -1,0 +1,11 @@
+[book]
+title = "DeepSeek Harness 源码解读"
+description = "从 Cordis 插件树到 Agent 主循环：一次关于工程优雅的源码之旅"
+authors = ["lxcong"]
+language = "zh-CN"
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/deepseek-ai/deepseek-harness"
+default-theme = "rust"
+preferred-dark-theme = "navy"
